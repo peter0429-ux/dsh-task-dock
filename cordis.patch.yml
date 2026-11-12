@@ -1,0 +1,3 @@
+- insert:
+    - id: task-dock
+      name: 'dsh-task-dock'

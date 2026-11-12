@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Task dock",
+    "description": "Pins the work that needs you to the top-left corner of the window: pending confirmations first, then running sessions, then unread results."
+  }
+}
